@@ -26,5 +26,9 @@ public class Main {
         }
 
         System.out.println(Arrays.toString(x));
+
+        for (int tmp : x) {
+            System.out.println(tmp + " ");
+        }
     }
 }
