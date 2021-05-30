@@ -1,4 +1,4 @@
-package lesson1;
+package Classwork.lesson1;
 
 public class Cat implements Animal {
     @Override
