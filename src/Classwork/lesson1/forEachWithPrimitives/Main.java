@@ -1,4 +1,4 @@
-package lesson1.forEachWithPrimitives;
+package Classwork.lesson1.forEachWithPrimitives;
 
 import java.util.Arrays;
 
